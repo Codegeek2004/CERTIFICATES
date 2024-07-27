@@ -50,5 +50,6 @@ Various other competitions focus on innovation, sustainability, and real-world p
 - L'Oréal Sustainability Challenge 2023: Encourages solutions for sustainable business practices.
 - Tata Imagination Challenge 2023:  A platform for innovative ideas and entrepreneurial thinking.
 - ACPC_2K24_JANVI_SINGH
+- Unstop Talent Park - Tech : MCQ Assessment
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
